@@ -10,10 +10,10 @@ https://hacks-ai.ru/events/1077375
 1. **model_v2.py** - итоговый модуль (класс StroyModel) модели представленной как ансамбль intfloat/multilingual-e5-small и алгоритма BM25.  
 2. **datasets/classification.xlsx** - классификатор КСР
 3. **datasets/train.xlsx** - обучающая выборка
-3. **bot1.py** - Телеграм-бот
-4. **main.py** - API
-4. **requirements.txt** - зависимости
-
+4. **bot1.py** - Телеграм-бот
+5. **main.py** - API
+6. **requirements.txt** - зависимости
+7. **Train_modal.ipynb** - функция дообучения модели
 
 ###### API и Телеграм-бот используют модуль с моделью
 
